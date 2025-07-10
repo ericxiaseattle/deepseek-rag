@@ -70,7 +70,7 @@ This script:
 
 ## Notes
 - The dynamically-quantized DeepSeek-R1 models are downloaded from [`unsloth/DeepSeek-R1-GGUF`](https://huggingface.co/unsloth/DeepSeek-R1-GGUF).
-- This project does **not** include model quantization code itself. It focuses on applying pre-quantized models in a lightweight RAG pipeline.
+- This project does **not** include model quantization code itself. It focuses on applying pre-quantized models in a lightweight RAG pipeline and benchmarking them on performance and system resource utilization metrics.
 
 ## License
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
